@@ -1,4 +1,4 @@
-----Project: Covid 19 Data Exploration
+----Project: Covid 19 Data Exploration: Quaries on the Dataset of Covid-19 officially available on Kaggle
 ----Author: Divyesh Jayswal
 ----Last Updated: 16.05.2024
 
