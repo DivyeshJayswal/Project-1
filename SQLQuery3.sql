@@ -1,5 +1,7 @@
+----Project: Covid 19 Data Exploration
+----Author: Divyesh Jayswal
+----Last Updated: 16.05.2024
 
-------Covid 19 Data Exploration-------- 
 
 Select *
 From PortfolioProject1.dbo.CovidDeaths
